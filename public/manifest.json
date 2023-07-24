@@ -1,0 +1,13 @@
+{
+  "short_name": "HAVITY APP",
+  "name": "HAVITY GROUP",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": {
+    "src": "../src/assets/logo/havity-logo.ico",
+    "sizes": "192x192"
+  }
+
+}
